@@ -40,19 +40,19 @@ The calculator performs the following operations:
 
 ## ✨ Features
 
-- 🖥️ **Graphical User Interface** using Tkinter
-- 💰 Accepts gross annual salary in Indian Rupees
-- 🧮 Automatically calculates taxable income
-- 📊 Applies income tax slab calculations
-- 🧾 Applies standard deduction of up to ₹75,000
-- 🔄 Implements rebate / marginal relief logic
-- ➕ Adds 4% Health and Education Cess
-- 💵 Displays salary after estimated tax
-- ⚠️ Handles invalid input
-- 🚫 Handles negative salary values
-- 🔘 Simple **Calculate Tax** button
-- ❌ Easy **Exit** button
-- 📦 No external Python packages required
+- **Graphical User Interface** using Tkinter
+-  Accepts gross annual salary in Indian Rupees
+-  Automatically calculates taxable income
+-  Applies income tax slab calculations
+-  Applies standard deduction of up to ₹75,000
+-  Implements rebate / marginal relief logic
+-  Adds 4% Health and Education Cess
+-  Displays salary after estimated tax
+-  Handles invalid input
+-  Handles negative salary values
+-  Simple **Calculate Tax** button
+-  Easy **Exit** button
+-  No external Python packages required
 
 ---
 
